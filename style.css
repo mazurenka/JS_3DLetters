@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: rgb(25, 49, 97);
+  background-color: #5BC2E7 ;
 }
 .container {
   position: absolute;
@@ -131,4 +131,34 @@ ul li:hover:nth-child(6) a:before {
 }
 ul li:hover:nth-child(6) a:after {
   background: #37bc9bad;
+}
+ul li:hover:nth-child(7) a {
+  background: #fc6e51;
+}
+
+ul li:hover:nth-child(7) a:before {
+  background: #fc6e51b3;
+}
+ul li:hover:nth-child(7) a:after {
+  background: #fc6e51b3;
+}
+ul li:hover:nth-child(8) a {
+  background: #0077b5;
+}
+
+ul li:hover:nth-child(8) a:before {
+  background: #18a003;
+}
+ul li:hover:nth-child(8) a:after {
+  background: #0dbf7b;
+}
+ul li:hover:nth-child(9) a {
+  background: #67b500;
+}
+
+ul li:hover:nth-child(9) a:before {
+  background: #036aa0;
+}
+ul li:hover:nth-child(9) a:after {
+  background: #0d82bf;
 }
